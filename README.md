@@ -12,8 +12,8 @@ We, Kemal Tulum and Batuhan Enes Çağlayan, have a solution for this. We can de
 | OV7670 Camera | Captures images of car plates for plate recognition purposes |
 | Arduino Yun | Provides power for circuit and communicates with cloud |
 | Arduino IDE | Used to configure Arduino Yun |
-| IBM Cloud | Used as a cloud platform to store and visualize data |
-| Node-RED | Used  |
+| IBM Cloud | Used as a cloud platform to receive, store and send data |
+| Node-RED | Used as a cloud server to visualize data |
 
 
 ## IoT Architecture
