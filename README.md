@@ -1,5 +1,7 @@
 # SmartParkArea
 
+![one-pager](https://github.com/bounIoT/SmartParkArea/blob/master/Images/iot-one-pager.png)
+
 Car parks are not automated for pricing, billing and payment processes. For billing and payment procedures, parks rely on people, counters and receipts. In a car park, paying the bill manually cost time and effort for one. Car park have to deal with payment, time keeping and counter operation for 24-hour with a number of employees on different shifts.
 
 We, Kemal Tulum and Batuhan Enes Çağlayan, have a solution for this. We can detect the plate of the car in a slot with image recognition technologies and bill the car for the duration spent in the slot. The bill and payment options can be provided over a smartphone application or web servers. 
